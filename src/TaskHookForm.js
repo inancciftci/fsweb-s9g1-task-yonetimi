@@ -1,5 +1,4 @@
 import React from "react";
-import { nanoid } from "nanoid";
 import { useForm } from "react-hook-form";
 import { toast } from "react-toastify";
 
